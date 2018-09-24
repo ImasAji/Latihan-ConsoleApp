@@ -1,0 +1,9 @@
+*.suo
+*.user
+
+[DB]ebug/
+[Rr]elease/
+[Db]in/
+[Oo]bj/
+
+.vs/

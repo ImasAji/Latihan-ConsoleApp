@@ -1,0 +1,24 @@
+D:\TUGAS KULIAH\Program\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.exe.config
+D:\TUGAS KULIAH\Program\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.exe
+D:\TUGAS KULIAH\Program\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.pdb
+D:\TUGAS KULIAH\Program\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.exe
+D:\TUGAS KULIAH\Program\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.pdb
+D:\TUGAS KULIAH\Program\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.csprojResolveAssemblyReference.cache
+D:\TUGAS KULIAH\Program\tugas c#\console aplikasi\console aplikasi\bin\Debug\DATABASE3..mdb
+F:\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.exe.config
+F:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.exe
+F:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.pdb
+F:\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.exe
+F:\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.pdb
+F:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.csprojResolveAssemblyReference.cache
+F:\tugas c#\console aplikasi\console aplikasi\bin\Debug\DatabaseSiswa.accdb
+H:\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.exe.config
+H:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.exe
+H:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.pdb
+E:\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.exe.config
+E:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.exe
+E:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.pdb
+E:\tugas c#\console aplikasi\console aplikasi\bin\Debug\DatabaseSiswa.accdb
+E:\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.exe
+E:\tugas c#\console aplikasi\console aplikasi\bin\Debug\console aplikasi.pdb
+E:\tugas c#\console aplikasi\console aplikasi\obj\Debug\console aplikasi.csprojResolveAssemblyReference.cache
